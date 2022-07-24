@@ -1,3 +1,5 @@
+// a simple, non-working version of the game. this is a simple prototype, which does not work
+
 #include <iostream>
 // including file for array
 #include <string>
